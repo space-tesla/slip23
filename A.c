@@ -31,6 +31,11 @@ int main() {
     return 0;
 }
 
+How To Run
+--->  cc slip.c
+---> ./a.out
+--->  gcc slip.c -o slip
+---> ./slip slip.c
 
 /*Enter the filename to search: example.txt
 File 'example.txt' found in the current directory.
